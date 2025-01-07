@@ -17,3 +17,7 @@ Avant de lancer l'application, assurez-vous d'avoir les éléments suivants inst
 - Python 3.x
 - Nmap
 - Tkinter 
+
+## GUI
+
+![image info](./img/GUI.png)
